@@ -1,6 +1,6 @@
 const hello = 'Hello world!';
 
-let main = () => {
+const main = () => {
     console.log(hello);
 };
 
